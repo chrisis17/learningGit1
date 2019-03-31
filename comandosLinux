@@ -1,0 +1,13 @@
+- ls (-a,-l)
+- cd ( .., /, )
+- mkdir asdasd
+- rm -R Aasdas
+- rmdir sdasdas
+- cp
+- mv
+- pwd
+- uptime
+- sudo
+- apt -get install       ---> instalar
+- man                    ---> ayuda (para que sirve ... tal cosa)
+- cat
